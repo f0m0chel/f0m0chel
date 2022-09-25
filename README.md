@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @f0m0chel
-- 👀 I’m interested in programming microcontrollers
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in programming microcontrollers (certain competence) and building technical tools for Windows (just at the start, no real competence)
+- 🌱 I’m currently learning c++ and c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
